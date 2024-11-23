@@ -1,4 +1,4 @@
-# Hi there, I'm Katusiime Praise Martha 👋  
+# Hello👋.  I'm Katusiime Praise Martha 
 
 Welcome to my GitHub profile!  
 I am an aspiring **Software Engineer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at Uganda Christian University.  
