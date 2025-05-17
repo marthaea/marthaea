@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello👋%20I'm%20Katusiime%20Praise%20Martha&fontSize=35&fontAlign=center" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello👋%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center" />
 
 Welcome to my GitHub profile!  
-I’m an aspiring **Software Engineer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at Uganda Christian University.  
+I’m a **Software Engineer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at Uganda Christian University.  
 I bring imaginations to life through **code**, **storytelling**, and **design**.  
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me [Me](https://marthakp.netlify.app/)
 - 🎨 Artist & Writer: Crafting stories and illustrations that spark creativity  
 - 💻 Tech Enthusiast: Always exploring and building  
 - 💡 Passionate About: Innovation, collaboration & lifelong learning  
@@ -35,8 +35,8 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
 ## 🚀 Projects
 
 ### 🎨 **Portfolio Website**  
-A space to showcase my artwork, stories, and web development projects.  
-🔗 Includes links to [Wattpad stories](https://www.wattpad.com/user/marthamakes)
+A space to showcase my artwork, stories, and web development projects.[Portfolio](portfoliomarthapraisekatusiime.netlify.app)
+🔗 Includes links to [Wattpad stories](https://www.wattpad.com/user/marthamakes1)
 
 ### 💡 **CWorks**  
 React platform connecting designers, artists & developers for creative brainstorming.  
@@ -51,17 +51,21 @@ Branding + web design + hiring brochure for a bakery.
 ### 🧳 **TourUg**  
 Logo design and campaign branding for Uganda’s tourism industry.  
 
-### 🍲 **Ugandan Kitchen**  
-Recipe website showcasing Ugandan cuisine from all regions.  
+### 🍲 **My Ugandan Kitchen** 
+Recipe website showcasing Ugandan cuisine from all regions.[My Ugandan Kitchen](https://myugandankitchen.netlify.app/)  
 
 ### 📝 **TaleWeave**  
-A blog platform focused on storytelling and creative writing.
+A blog platform focused on storytelling and creative writing.[Taleweave](https://taleweave.netlify.app/)
+
+### 📝 **Bullion Events**  
+Events management website.[Bullion Events Website](https://bullionevents.netlify.app/)
 
 ### 🛤 **Passenger (WIP)**  
-A reflective story about a visually impaired woman, identity, and mystery.
+A reflective story about a visually impaired woman, identity, and mystery. 
 
 ### 👑 **Lady in Waiting (WIP)**  
 Historical fiction about Anne Boleyn’s final days, from a lady-in-waiting’s view.
+**And many more!**
 
 ---
 
