@@ -6,7 +6,7 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
 
 ---
 
-## 🌟 About Me [Me](https://marthakp.netlify.app/)
+## 🌟 About Me [Contact Me](https://marthakp.netlify.app/)
 - 🎨 Artist & Writer: Crafting stories and illustrations that spark creativity  
 - 💻 Tech Enthusiast: Always exploring and building  
 - 💡 Passionate About: Innovation, collaboration & lifelong learning  
@@ -46,7 +46,7 @@ Real estate app with Firebase backend.
 🔐 Features: Authentication, property listings, and tour booking.
 
 ### ✨ **Timo’s Breadwinner**  
-Branding + web design + hiring brochure for a bakery.
+Branding + web design + hiring brochure for a bakery.[Timo's Breadwinner Website](https://timosbreadwinner.com/)
 
 ### 🧳 **TourUg**  
 Logo design and campaign branding for Uganda’s tourism industry.  
