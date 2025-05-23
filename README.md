@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello👋%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center" />
 
 Welcome to my GitHub profile!  
 I’m a **Software Engineer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at Uganda Christian University.  
