@@ -4,8 +4,9 @@ Welcome to my GitHub profile!
 I’m a **Software Engineer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at Uganda Christian University.  
 I bring imaginations to life through **code**, **storytelling**, and **design**.  
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=marthaea&theme=gruvbox&no-bg=true&no-frame=true&margin-w=10)
+<h3>🏆 GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=marthaea&theme=gruvbox&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies">
+
 
 
 ---
