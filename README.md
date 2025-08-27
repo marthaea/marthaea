@@ -40,10 +40,13 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
 
 ## 🚀 Projects
 ### 🛜 **Link Guardian Safecheck**
+![InternetPoliceSirenGIF](https://github.com/user-attachments/assets/27f2b439-a49f-4c8c-9ba4-28c544784d6f)
+
 An anti phishing site that uses a triple layer analysis to check pasted links. The analysis includes two API end points and an internal heuristics analysis.
 🔗[Link Guardian Safecheck Site](https://guardiansafecheck.netlify.app/)
 
-## 🌏 **Galaxy Quest** ![SpaePlanetGIF](https://github.com/user-attachments/assets/52c513b1-6b2e-4621-9795-d9c7406911eb)
+## 🌏 **Galaxy Quest** 
+![SpaePlanetGIF](https://github.com/user-attachments/assets/52c513b1-6b2e-4621-9795-d9c7406911eb)
 Explore distant worlds beyond our solar system through NASA's Exoplanet Archive.
 🔗[Galaxy Quest](https://galaxyquest.netlify.app/)
 
@@ -52,27 +55,22 @@ Explore distant worlds beyond our solar system through NASA's Exoplanet Archive.
 A space to showcase my artwork, stories, and web development projects.[Portfolio](portfoliomarthapraisekatusiime.netlify.app)
 🔗 Includes links to [Wattpad stories](https://www.wattpad.com/user/marthamakes1)
 
-### 💡 **CWorks**  
-React platform connecting designers, artists & developers for creative brainstorming.  
 
-### 🏡 **ARK Investments**  
-Real estate app with Firebase backend.  
-🔐 Features: Authentication, property listings, and tour booking.
+### 💡 **The Voiceless Pet Shelter**  
+A pet rescue comapy website
+![DogMemeDogStareGIF](https://github.com/user-attachments/assets/8a6126aa-2b33-4cd9-a70d-9f37486d4588)
+🔗[The Voiceless Pet Shelter](https://thevoicelesshelter.org/)
 
 ### ✨ **Timo’s Breadwinner**  
-Branding + web design + hiring brochure for a bakery.[Timo's Breadwinner Website](https://timosbreadwinner.com/)
-
-### 🧳 **TourUg**  
-Logo design and campaign branding for Uganda’s tourism industry.  
+Branding + web design + front end and backend for a bakery.[Timo's Breadwinner Website](https://timosbreadwinner.com/) 
 
 ### 🍲 **My Ugandan Kitchen** 
 Recipe website showcasing Ugandan cuisine from all regions.[My Ugandan Kitchen](https://myugandankitchen.netlify.app/)  
+![AddingOnionHighOnTheHogHowAfricanAmericanCuisineTransformedAmericaGIF](https://github.com/user-attachments/assets/9031c2ad-417c-4fd5-b223-bdb456bb4410)
 
-### 📝 **TaleWeave**  
-A blog platform focused on storytelling and creative writing.[Taleweave](https://taleweave.netlify.app/)
 
-### 📝 **Bullion Events**  
-Events management website.[Bullion Events Website](https://bullionevents.netlify.app/)
+### 📝 **Martha Story**  
+A paid for comprehensive collection of eighteen powerful stories exploring love, identity, drama, and the human condition through contemporary African literature, all by the same author.[Martha Story](https://marthastory.netlify.app/)
 
 ### 🛤 **Passenger (WIP)**  
 A reflective story about a visually impaired woman, identity, and mystery. 
@@ -81,17 +79,21 @@ A reflective story about a visually impaired woman, identity, and mystery.
 Historical fiction about Anne Boleyn’s final days, from a lady-in-waiting’s view.
 **And many more!**
 
+*As for all the projects....*
+![ThereAreManyMoreRebeccaGIF](https://github.com/user-attachments/assets/d931c20d-df4f-4949-81a4-1c93852d9a83)
+
+
+
+
 ---
 
 ## 📚 Learning Platforms
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
-![Exercism](https://img.shields.io/badge/Exercism-0096D6?style=flat)
-![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=flat&logo=freecodecamp)
 ![Domestika](https://img.shields.io/badge/Domestika-FF424D?style=flat)
-![Skillshare](https://img.shields.io/badge/Skillshare-17C37B?style=flat)
 ![W3Schools](https://img.shields.io/badge/W3Schools-3C3C3C?style=flat)
+![Africa Agility Foundation](<img width="300" height="94" alt="image" src="https://github.com/user-attachments/assets/457689f9-9b26-455f-9338-fc55d83a04d6" />)
+
 
 ---
 
