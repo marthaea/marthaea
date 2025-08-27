@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center" />
 
 Welcome to my GitHub profile!  
-I’m a **Software Developer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at Uganda Christian University. Co-founder of **Nexus**. 
+I’m a **Software Developer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at **Uganda Christian University**. Co-founder of [**Nexus**](https://nexushavenn.netlify.app/). 
 I bring imaginations to life through **code**, **storytelling**, and **design**.  
 
 ### 🏆 GitHub Trophies
@@ -33,13 +33,20 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Toon Boom](https://img.shields.io/badge/ToonBoom-Harmony-yellow?style=flat)
 ![TVPaint](https://img.shields.io/badge/TVPaint-blue?style=flat)
 
 ---
 
 ## 🚀 Projects
+### 🛜 **Link Guardian Safecheck**
+An anti phishing site that uses a triple layer analysis to check pasted links. The analysis includes two API end points and an internal heuristics analysis.
+🔗[Link Guardian Safecheck Site](https://guardiansafecheck.netlify.app/)
+
+## 🌏 **Galaxy Quest** ![SpaePlanetGIF](https://github.com/user-attachments/assets/52c513b1-6b2e-4621-9795-d9c7406911eb)
+Explore distant worlds beyond our solar system through NASA's Exoplanet Archive.
+🔗[Galaxy Quest](https://galaxyquest.netlify.app/)
+
 
 ### 🎨 **Portfolio Website**  
 A space to showcase my artwork, stories, and web development projects.[Portfolio](portfoliomarthapraisekatusiime.netlify.app)
