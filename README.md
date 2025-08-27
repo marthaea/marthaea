@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center&fontColor=00ffcc&animation=fadeIn&desc=%20Software%20Developer%20|%20Creative%20Powerhouse%20⚡&descAlignY=70&descAlign=50&reversal=true" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+cool+apps+💻;Exploring+tech+and+creativity+🚀;Lifelong+learner+📚;Welcome+to+my+GitHub!+✨" />
 
 Welcome to my GitHub profile!  
 I’m a **Software Developer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at **Uganda Christian University**. Co-founder of [**Nexus**](https://nexushavenn.netlify.app/). 
