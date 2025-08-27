@@ -1,6 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center&fontColor=00ffcc&animation=fadeIn&desc=%20Software%20Developer%20|%20Creative%20Powerhouse%20⚡&descAlignY=70&descAlign=50&reversal=true" />
+<!-- Solid Dark Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=200&section=header&text=Hi,%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center&fontColor=00ffcc&animation=fadeIn&desc=Software%20Developer%20|%20Creative%20Powerhouse%20⚡&descAlignY=70&descAlign=50" />
 
+<!-- Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+cool+apps+💻;Exploring+tech+and+creativity+🚀;Lifelong+learner+📚;Welcome+to+my+GitHub!+✨" />
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://github.com/marthaea"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=00ffcc" /></a>
+  <a href="https://www.linkedin.com/in/martha-praise-katusiime"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=00ffcc" /></a>
+  <a href="http://x.com/capulet_praise?t=U26oW5jR-g7HiyK_1MlfmA&s=09"><img src="https://img.shields.io/badge/Twitter(X)-1a1a1a?style=for-the-badge&logo=x&logoColor=00ffcc" /></a>
+  <a href="mailto:marthapraisekatusiime721@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00ffcc" /></a>
+</p>
+>
 
 Welcome to my GitHub profile!  
 I’m a **Software Developer** from **Kampala, Uganda**, pursuing a Bachelor's degree in **Information Technology** at **Uganda Christian University**. Co-founder of [**Nexus**](https://nexushavenn.netlify.app/). 
