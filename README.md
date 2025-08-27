@@ -18,7 +18,7 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
 - 💻 Tech Enthusiast: Always exploring and building  
 - 💡 Passionate About: Innovation, collaboration & lifelong learning  
 - 🛠 Skills:  
-  `Programming` | `Team Leadership` | `Data Analysis` | `UI/UX Design` | `Creative Writing`
+  `Programming` | `Team Leadership` | `Data Analysis` | `UI/UX Design` | `Creative Writing` | `Pencil Art`
 
 ---
 
@@ -47,6 +47,7 @@ An anti phishing site that uses a triple layer analysis to check pasted links. T
 
 ## 🌏 **Galaxy Quest** 
 ![SpaePlanetGIF](https://github.com/user-attachments/assets/52c513b1-6b2e-4621-9795-d9c7406911eb)
+
 Explore distant worlds beyond our solar system through NASA's Exoplanet Archive.
 🔗[Galaxy Quest](https://galaxyquest.netlify.app/)
 
@@ -57,16 +58,21 @@ A space to showcase my artwork, stories, and web development projects.[Portfolio
 
 
 ### 💡 **The Voiceless Pet Shelter**  
-A pet rescue comapy website
 ![DogMemeDogStareGIF](https://github.com/user-attachments/assets/8a6126aa-2b33-4cd9-a70d-9f37486d4588)
+
+A pet rescue company website
 🔗[The Voiceless Pet Shelter](https://thevoicelesshelter.org/)
 
 ### ✨ **Timo’s Breadwinner**  
-Branding + web design + front end and backend for a bakery.[Timo's Breadwinner Website](https://timosbreadwinner.com/) 
+![BreadSliceGIF](https://github.com/user-attachments/assets/68ba4cd8-8f40-4e00-92aa-86c859e5f419)
 
-### 🍲 **My Ugandan Kitchen** 
-Recipe website showcasing Ugandan cuisine from all regions.[My Ugandan Kitchen](https://myugandankitchen.netlify.app/)  
+Branding + web design + front end and backend for a bakery. 🔗[Timo's Breadwinner Website](https://timosbreadwinner.com/) 
+
+
+### 🍲 **My Ugandan Kitchen**  
 ![AddingOnionHighOnTheHogHowAfricanAmericanCuisineTransformedAmericaGIF](https://github.com/user-attachments/assets/9031c2ad-417c-4fd5-b223-bdb456bb4410)
+
+Recipe website showcasing Ugandan cuisine from all regions.[My Ugandan Kitchen](https://myugandankitchen.netlify.app/) 
 
 
 ### 📝 **Martha Story**  
