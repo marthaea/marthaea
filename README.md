@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=200&section=header&text=Hi,%20I'm%20Martha%20Praise%20Katusiime&fontSize=35&fontAlign=center&fontColor=00ffcc&animation=fadeIn&desc=Software%20Developer%20|%20Creative%20Powerhouse%20⚡🫡😎&descAlignY=70&descAlign=50" />
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+cool+apps+💻;Exploring+tech+and+creativity+🚀;Lifelong+learner+📚;Stroking+pencil+on+paper+✏️;Writing+Vivid+and+Bold+Stories+🤗;Welcome+to+my+GitHub!+✨💃🏾🎉" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Building+cool+apps+👩🏾‍💻💻;Exploring+tech+and+creativity+🌏🚀;Lifelong+learner+📚🧐;Stroking+pencil+on+paper+✏️📜;Writing+Vivid+and+Bold+Stories+🤗📰;Welcome+to+my+GitHub!+✨💃🏾🎉" />
 
 
 <p align="center">
