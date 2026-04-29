@@ -49,6 +49,9 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
 ![TVPaint](https://img.shields.io/badge/TVPaint-blue?style=flat)
 
 ---
+## Ranking
+[![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/USERNAME)
+
 
 ## 🚀 Projects
 ### 🛜 **Link Guardian Safecheck**
