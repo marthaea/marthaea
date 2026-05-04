@@ -139,8 +139,7 @@ Historical fiction about Anne Boleyn’s final days, from a lady-in-waiting’s 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats Card](https://ghstats.dev/api/card?username=marthaea&theme=forest&hide_border=true&border_radius=1)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marthaea&show_icons=true&theme=tokyonight)  
+![GitHub Stats Card](https://ghstats.dev/api/card?username=marthaea&theme=forest&hide_border=true&border_radius=1)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marthaea&layout=compact&theme=tokyonight)  
 ![Streak](https://streak-stats.demolab.com?user=marthaea&theme=tokyonight)
 
