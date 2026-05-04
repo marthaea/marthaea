@@ -62,9 +62,6 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
 ![TVPaint](https://img.shields.io/badge/TVPaint-blue?style=flat)
 
 ---
-## Ranking
-[![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/USERNAME)
-
 
 ## 🚀 Projects
 ### 🛜 **Link Guardian Safecheck**
@@ -142,7 +139,7 @@ Historical fiction about Anne Boleyn’s final days, from a lady-in-waiting’s 
 ---
 
 ## 📈 GitHub Stats
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=marthaea&theme=forest&hide_border=true&border_radius=1)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marthaea&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marthaea&layout=compact&theme=tokyonight)  
 ![Streak](https://streak-stats.demolab.com?user=marthaea&theme=tokyonight)
