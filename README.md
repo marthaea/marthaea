@@ -38,7 +38,7 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
 
 <p align="center">
   <a href="https://skfb.ly/pJ7EH" target="_blank">
-    <img src="https://raw.githubusercontent.com/marthaea/YOUR-REPO/main/assets/martha-avatar.gif" width="300" alt="Martha 3D Avatar"/>
+    <img src="assets/martha-avatar.gif" width="300" alt="Martha 3D Avatar"/>
   </a>
 </p>
 
