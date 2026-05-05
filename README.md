@@ -33,18 +33,6 @@ I bring imaginations to life through **code**, **storytelling**, and **design**.
   `Programming` | `Team Leadership` | `Data Analysis` | `UI/UX Design` | `Creative Writing` | `Pencil Art`
 
 ---
-<!-- ✨ 3D Avatar Section -->
-<h3 align="center">✨ Meet Me in 3D</h3>
-
-<p align="center">
-  <a href="https://skfb.ly/pJ7EH" target="_blank">
-    <img src="assets/martha-avatar.gif" width="300" alt="Martha 3D Avatar"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Click to explore my interactive 3D avatar</i>
-</p>
 
 
 ## 💼 My Expertise
