@@ -6,7 +6,7 @@
   then set src="https://raw.githubusercontent.com/marthaea/marthaea/main/assets/hero.jpg"
   Recommended size: 1200x400px so it crops cleanly.
 -->
-<img src="https://placehold.co/1200x400/1a1a1a/00ffcc?text=Your+Photo+or+Artwork+Here&font=montserrat" width="100%"/>
+<img src="not.jfif" width="100%"/>
 
 # Martha Praise Katusiime
 
@@ -64,7 +64,7 @@ Software Developer pursuing a Bachelor's degree in Information Technology at Uga
 <img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" style="padding:8px;background:#1a1a1a;border-radius:8px;" />
 <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" style="padding:8px;background:#1a1a1a;border-radius:8px;" />
 
-*(ToonBoom Harmony and TVPaint are also part of my creative toolkit — no square icon available for these yet.)*
+
 
 </div>
 
