@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marthaea&theme=github-dark&hide_border=true&area=true" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00ffcc&height=220&section=header&text=Martha%20Praise%20Katusiime&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# Hey there, I'm Martha Praise Katusiime
-
-### Software Developer · Kampala, Uganda
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FFCC&background=1A1A1A00&center=true&vCenter=true&width=600&lines=Software+Developer;Storyteller+%26+Illustrator;UI%2FUX+Designer;Kampala%2C+Uganda" alt="Typing SVG" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=marthaea&label=Profile%20Views&color=1a1a1a&style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/marthaea?label=Stars&style=for-the-badge&color=1a1a1a" />
@@ -16,14 +16,27 @@
 
 ## About Me
 
-Software Developer pursuing a Bachelor's degree in Information Technology at Uganda Christian University. Co-founder of [Nexus](https://nexushavenn.netlify.app/). I bring imaginations to life through code, storytelling, and design.
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Software Developer pursuing a Bachelor's degree in Information Technology at Uganda Christian University. Co-founder of <a href="https://nexushavenn.netlify.app/">Nexus</a>. I bring imaginations to life through code, storytelling, and design.
 
 - Artist and Writer — crafting stories and illustrations that spark creativity
 - Tech Enthusiast — always exploring and building
 - Passionate about innovation, collaboration, and lifelong learning
 - Skills: Programming, Team Leadership, Data Analysis, UI/UX Design, Creative Writing, Pencil Art
 
-**[Contact Me](https://marthakp.netlify.app/)**
+**<a href="https://marthakp.netlify.app/">Contact Me</a>**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,24 +57,33 @@ Software Developer pursuing a Bachelor's degree in Information Technology at Uga
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,php,firebase,git,github,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,php,firebase,git,github,figma,postman,vscode,mysql&theme=dark&perline=7" />
 
 </div>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Toon Boom](https://img.shields.io/badge/ToonBoom-Harmony-yellow?style=flat)
-![TVPaint](https://img.shields.io/badge/TVPaint-blue?style=flat)
+<br/>
+
+<div align="center">
+
+**Creative Tools**
+
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" style="padding:8px;background:#1a1a1a;border-radius:8px;" />
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" style="padding:8px;background:#1a1a1a;border-radius:8px;" />
+<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" style="padding:8px;background:#1a1a1a;border-radius:8px;" />
+
+*(ToonBoom Harmony and TVPaint are also part of my creative toolkit — no square icon available for these yet.)*
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=csharp,cpp,java,js,python,bash,dotnet,mysql,figma,pytorch,sklearn,scipy,tensorflow&theme=dark&perline=7" />
+
+</div>
 
 ---
 
@@ -119,10 +141,10 @@ And many more!
 
 ## Learning Platforms
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Domestika](https://img.shields.io/badge/Domestika-FF424D?style=flat)
-![W3Schools](https://img.shields.io/badge/W3Schools-3C3C3C?style=flat)
-![Africa Agility Foundation](https://img.shields.io/badge/Africa%20Agility%20Foundation-2E8B57?style=flat)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Domestika](https://img.shields.io/badge/Domestika-FF424D?style=flat-square)
+![W3Schools](https://img.shields.io/badge/W3Schools-3C3C3C?style=flat-square)
+![Africa Agility Foundation](https://img.shields.io/badge/Africa%20Agility%20Foundation-2E8B57?style=flat-square)
 
 ---
 
