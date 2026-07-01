@@ -6,7 +6,7 @@
   then set src="https://raw.githubusercontent.com/marthaea/marthaea/main/assets/hero.jpg"
   Recommended size: 1200x400px so it crops cleanly.
 -->
-<img src="not.jfif" width="100%"/>
+<img src="assets/not mine mate.jfif" width="100%"/>
 
 # Martha Praise Katusiime
 
