@@ -138,18 +138,12 @@ And many more!
 
 ---
 
-<div align="center">
 
-### Support Me
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/marthaea)
-
-</div>
 
 ---
 
 <div align="center">
 
-Thanks for visiting my GitHub profile. Feel free to explore my repositories and say hi — ask me about the languages, tools, or technologies I use, or pick from the list above and I'll walk you through it.
+Thanks for visiting my GitHub profile. Feel free to explore my repositories and say hi, ask me about the languages, tools, or technologies I use, or pick from the list above and I'll walk you through it.
 
 </div>
