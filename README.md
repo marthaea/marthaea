@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00ffcc&height=220&section=header&text=Martha%20Praise%20Katusiime&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<!--
+  HERO IMAGE — replace the src below with your own photo or artwork.
+  Steps: upload your image to your profile repo (e.g. assets/hero.jpg),
+  then set src="https://raw.githubusercontent.com/marthaea/marthaea/main/assets/hero.jpg"
+  Recommended size: 1200x400px so it crops cleanly.
+-->
+<img src="https://placehold.co/1200x400/1a1a1a/00ffcc?text=Your+Photo+or+Artwork+Here&font=montserrat" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FFCC&background=1A1A1A00&center=true&vCenter=true&width=600&lines=Software+Developer;Storyteller+%26+Illustrator;UI%2FUX+Designer;Kampala%2C+Uganda" alt="Typing SVG" />
-</a>
+# Martha Praise Katusiime
+
+### Software Developer · Storyteller & Illustrator · Kampala, Uganda
 
 <img src="https://komarev.com/ghpvc/?username=marthaea&label=Profile%20Views&color=1a1a1a&style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/marthaea?label=Stars&style=for-the-badge&color=1a1a1a" />
@@ -16,27 +22,14 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-Software Developer pursuing a Bachelor's degree in Information Technology at Uganda Christian University. Co-founder of <a href="https://nexushavenn.netlify.app/">Nexus</a>. I bring imaginations to life through code, storytelling, and design.
+Software Developer pursuing a Bachelor's degree in Information Technology at Uganda Christian University. Co-founder of [Nexus](https://nexushavenn.netlify.app/). I bring imaginations to life through code, storytelling, and design.
 
 - Artist and Writer — crafting stories and illustrations that spark creativity
 - Tech Enthusiast — always exploring and building
 - Passionate about innovation, collaboration, and lifelong learning
 - Skills: Programming, Team Leadership, Data Analysis, UI/UX Design, Creative Writing, Pencil Art
 
-**<a href="https://marthakp.netlify.app/">Contact Me</a>**
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
-
-</td>
-</tr>
-</table>
+**[Contact Me](https://marthakp.netlify.app/)**
 
 ---
 
@@ -90,14 +83,10 @@ Software Developer pursuing a Bachelor's degree in Information Technology at Uga
 ## Projects
 
 ### Link Guardian Safecheck
-![InternetPoliceSirenGIF](https://github.com/user-attachments/assets/27f2b439-a49f-4c8c-9ba4-28c544784d6f)
-
 An anti-phishing site that uses triple-layer analysis to check pasted links, combining two API endpoints with internal heuristics analysis.
 [Link Guardian Safecheck Site](https://guardiansafecheck.netlify.app/)
 
 ### Galaxy Quest
-![SpacePlanetGIF](https://github.com/user-attachments/assets/52c513b1-6b2e-4621-9795-d9c7406911eb)
-
 Explore distant worlds beyond our solar system through NASA's Exoplanet Archive.
 [Galaxy Quest](https://galaxyquest.netlify.app/)
 
@@ -106,20 +95,14 @@ A space to showcase my artwork, stories, and web development projects. [Portfoli
 Includes links to [Wattpad stories](https://www.wattpad.com/user/marthamakes1)
 
 ### The Voiceless Pet Shelter
-![DogGIF](https://github.com/user-attachments/assets/645dda3b-da23-42f4-9cf1-8fdcccd01432)
-
 A pet rescue company website.
 [The Voiceless Pet Shelter](https://thevoicelesshelter.org/)
 
 ### Timo's Breadwinner
-![BreadSliceGIF](https://github.com/user-attachments/assets/68ba4cd8-8f40-4e00-92aa-86c859e5f419)
-
 Branding, web design, front end and backend for a bakery.
 [Timo's Breadwinner Website](https://timosbreadwinner.com/)
 
 ### My Ugandan Kitchen
-![AddingOnionGIF](https://github.com/user-attachments/assets/9031c2ad-417c-4fd5-b223-bdb456bb4410)
-
 Recipe website showcasing Ugandan cuisine from all regions.
 [My Ugandan Kitchen](https://myugandankitchen.netlify.app/)
 
@@ -134,8 +117,6 @@ A reflective story about a visually impaired woman, identity, and mystery.
 Historical fiction about Anne Boleyn's final days, from a lady-in-waiting's view.
 
 And many more!
-
-![ThereAreManyMoreGIF](https://github.com/user-attachments/assets/d931c20d-df4f-4949-81a4-1c93852d9a83)
 
 ---
 
